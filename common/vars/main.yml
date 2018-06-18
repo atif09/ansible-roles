@@ -1,0 +1,6 @@
+---
+# vars file for common
+ntpserver1: 192.168.1.1
+ntpserver2: 2.in.pool.ntp.org 
+dns1: 8.8.8.8
+dns2: 192.168.1.1

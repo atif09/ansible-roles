@@ -1,0 +1,9 @@
+---
+- hosts: appgroup
+  user: ansadm
+  become: yes 
+  become_method: sudo
+  roles:
+   - common
+   - apache
+

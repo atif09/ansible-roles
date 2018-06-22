@@ -3,6 +3,7 @@ galaxy_info:
   description: apache module for RedHat 
   company: your company (optional)
 
+  # This role will deploy apache web on both Fedora and Debian
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker

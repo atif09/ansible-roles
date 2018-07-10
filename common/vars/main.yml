@@ -1,7 +1,4 @@
 ---
-# vars file for common
-ntpserver1: 192.168.1.1
-ntpserver2: 2.in.pool.ntp.org 
-dns1: 8.8.8.8
-dns2: 192.168.1.1
-dns3: 192.168.1.2
+## vars file for common
+ntpservers: ['3.in.pool.ntp.org','1.asia.pool.ntp.org','3.asia.pool.ntp.org']
+dnsservers: ['8.8.8.8','192.168.1.2']

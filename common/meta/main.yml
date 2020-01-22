@@ -1,7 +1,8 @@
 galaxy_info:
   author: Mohammed Jawad Hussain 
   description: Module to setup DNS and NTP 
-    # This module works for both Fedora and Debian
+  
+  # This module works for both Fedora and Debian
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   # issue_tracker_url: http://example.com/issue/tracker

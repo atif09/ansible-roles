@@ -1,6 +1,6 @@
 ---
-- hosts: appgroup
-  user: ansadm
+- hosts: all
+  user: ansible
   become: yes 
   become_method: sudo
   roles:
